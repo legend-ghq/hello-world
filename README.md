@@ -3,3 +3,4 @@ demo
 demo-edit1
 demo-0726
 demo-0814
+demo_new
